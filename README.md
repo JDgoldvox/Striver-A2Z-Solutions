@@ -2,16 +2,16 @@
 A repository for practise questions from [takeUforward's Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
 
 # Basics
-Name | Question Link 
+#Name | Question Link 
 ---- | ---- |
-name | something
+Count all Digits of a Number | something
 
-#x
+# x
 Name | Question Link | Difficulty
 ---- | ---- | ----
 name | something | qwe
 
-#y
+# y
 Name | Question Link | Difficulty
 ---- | ---- | ----
 name | something | qwe
