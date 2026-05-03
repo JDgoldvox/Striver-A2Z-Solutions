@@ -8,7 +8,7 @@ Count all Digits of a Number | [Solution](https://github.com/JDgoldvox/Striver-A
 
 # x
 Name | Solution | Question Link | Difficulty
----- | ---- | ---- |
+---- | ---- | ---- | ---- |
 name | something | qwe
 
 # y
