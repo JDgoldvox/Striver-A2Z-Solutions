@@ -1,5 +1,5 @@
 # Striver-A2Z-cpp-solutions
-A repository for practise questions
+A repository for practise questions from takeUfoward[https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z]
 
 Name | Difficulty
 ---- | ----
