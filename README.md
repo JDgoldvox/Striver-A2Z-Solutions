@@ -10,9 +10,9 @@ Includes Solution, Question, Timme Complexity, Space Complexity and Analysis <br
 # x
 . | Name | Solution || Difficulty
 ---- | ---- | ---- | ----
-0 | name | qwe
+0 | name | qwe | diff
 
 # y
 . | Name | Solution | Difficulty
 ---- | ---- | ---- | ----
-0 | name | something
+0 | name | something | diff
