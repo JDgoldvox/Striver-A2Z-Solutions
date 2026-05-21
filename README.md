@@ -26,10 +26,12 @@ Includes Solution, Question, Time Complexity, Space Complexity and Analysis <br>
 . | Name | Solution  
 ---- | ---- | ---- 
 0 | Selection Sort | [Solution](https://github.com/JDgoldvox/Striver-A2Z-Solutions/blob/main/1.%20Sorting/Selection%20Sort.cpp)
-1 |  | [Solution]()
-2 |  | [Solution]()
-3 |  | [Solution]()
-4 |  | [Solution]()
+1 | Bubble Sort | [Solution](https://github.com/JDgoldvox/Striver-A2Z-Solutions/blob/main/1.%20Sorting/Bubble%20Sort.cpp)
+2 | Insertion Sort | [Solution](https://github.com/JDgoldvox/Striver-A2Z-Solutions/blob/main/1.%20Sorting/Insertion%20Sort.cpp)
+3 | Merge Sort | [Solution](https://github.com/JDgoldvox/Striver-A2Z-Solutions/blob/main/1.%20Sorting/Merge%20Sort.cpp)
+4 | Recursive Bubble Sort | [Solution]()
+5 | Recursive Insertion Sort | [Solution]()
+6 | Quick Sort | [Solution]()
 
 # x
 . | Name | Solution | Difficulty
