@@ -42,8 +42,13 @@ Includes Solution, Question, Time Complexity, Space Complexity and Analysis <br>
 4 | Remove duplicates from Sorted array | [C++ Solution](https://github.com/JDgoldvox/Striver-A2Z-Solutions/blob/main/2.%20Arrays/4.%20Remove%20duplicates%20from%20sorted%20array.cpp) | easy
 5 | Left Rotate Array by One | [C++ Solution](https://github.com/JDgoldvox/Striver-A2Z-Solutions/blob/main/2.%20Arrays/5.%20Left%20Rotate%20Array%20by%20One.cpp) | easy
 6 | Left Rotate Array by K Places | [C++ Solution](https://github.com/JDgoldvox/Striver-A2Z-Solutions/blob/main/2.%20Arrays/6.%20Left%20Rotate%20Array%20by%20K%20Places.cpp) | easy
-7 | name | [Solution]() | easy
-8 | name | [Solution]() | easy
+7 | Move all Zeros to the end of the array | [C++ Solution](https://github.com/JDgoldvox/Striver-A2Z-Solutions/blob/main/2.%20Arrays/7.%20Move%20Zeros%20to%20End.cpp) | easy
+8 | Linear Search | [C++ Solution](https://github.com/JDgoldvox/Striver-A2Z-Solutions/blob/main/2.%20Arrays/8.%20Linear%20Search.cpp) | easy
+8 | name | [C++ Solution]() | easy
+8 | name | [C++ Solution]() | easy
+8 | name | [C++ Solution]() | easy
+8 | name | [C++ Solution]() | easy
+8 | name | [C++ Solution]() | easy
 
 # y
 . | Name | Solution | Difficulty
